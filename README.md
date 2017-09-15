@@ -1,4 +1,4 @@
-## Spark 写入和读取 elasticsearch 的 demo
+## Spark1.6 读写 elasticsearch5.5.2 的 demo
 
 **需要注意 scala 版本，spark 版本还有 es 版本一定要对应，否则无法运行**
 
