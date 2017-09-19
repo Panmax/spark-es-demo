@@ -15,7 +15,7 @@ libraryDependencies += "org.apache.spark" %% "spark-core" % "1.6.2"  // 这里�
 libraryDependencies += "org.elasticsearch" % "elasticsearch-spark-13_2.11" % "5.5.2" 
 ```
 
-解释一下 "elasticsearch-spark-13_2.11" % "5.5.2` 这部分
+解释一下 `"elasticsearch-spark-13_2.11" % "5.5.2"` 这部分
 
 `-13` 是给 `Spark1.3-1.6` 提供的
 `-20` 是给 `Spark2.0` 提供的
